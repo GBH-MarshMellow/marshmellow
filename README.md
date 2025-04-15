@@ -278,7 +278,7 @@ MM은 민감한 마이데이터 및 자산 정보를 다루는 서비스이기 �
     <tr>
       <td align="center"><strong>인증서 발급</strong></td>
       <td align="center">
-        MM은 사용자의 <strong>CI값을 기반으로 자체 인증서를 발급</strong>합니다.<br>
+        MM은 사용자의 <strong>공개키를 기반으로 자체 인증서를 발급</strong>합니다.<br>
         발급된 인증서는 <strong>앱 내 저장소 또는 보안 모듈</strong>에 안전하게 저장됩니다.
       </td>
     </tr>
