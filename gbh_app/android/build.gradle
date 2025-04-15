@@ -1,0 +1,24 @@
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    buildscript {
+        dependencies {
+            // 🔽 이 줄 추가!
+            classpath 'com.google.gms:google-services:4.3.15' // 최신 버전으로 사용
+        }
+}
+}
+
+rootProject.buildDir = "../build"
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+subprojects {
+    project.evaluationDependsOn(":app")
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}

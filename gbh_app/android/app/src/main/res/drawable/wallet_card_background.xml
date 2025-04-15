@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 첫 번째 레이어: 흰색 배경의 전체 카드 (가장 큰 영역) -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF" />
+            <corners android:radius="24dp" />
+            <stroke android:width="0.5dp" android:color="#E8E8E8" />
+        </shape>
+    </item>
+
+    <!-- 두 번째 레이어: 어두운 색상의 상단 영역 (더 작게 조정) -->
+    <item android:top="15dp" android:bottom="90dp" android:left="15dp" android:right="15dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#333333" />
+            <corners 
+                android:topLeftRadius="16dp"
+                android:topRightRadius="16dp"
+                android:bottomLeftRadius="8dp"
+                android:bottomRightRadius="8dp" />
+        </shape>
+    </item>
+
+    <!-- 세 번째 레이어: 하단 밝은 회색 영역 -->
+    <item android:top="75dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#ECECEC" />
+            <corners 
+                android:bottomLeftRadius="16dp"
+                android:bottomRightRadius="16dp" />
+        </shape>
+    </item>
+
+    <!-- 네 번째 레이어: 어두운 색의 노치 (위치 조정) -->
+    <item android:top="20dp" android:bottom="125dp" android:left="90dp" android:right="90dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#333333" />
+            <corners 
+                android:bottomLeftRadius="40dp"
+                android:bottomRightRadius="40dp" />
+        </shape>
+        <size android:height="3dp" />
+    </item>
+</layer-list> 
