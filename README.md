@@ -36,7 +36,7 @@
   <thead>
     <tr>
       <th align="center" width="180">기능 이름</th>
-      <th align="center">기능 설명</th>
+      <th align="center" width = "400" >기능 설명</th>
       <th colspan="2" align="center">화면</th>
     </tr>
   </thead>
