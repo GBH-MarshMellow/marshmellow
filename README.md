@@ -52,10 +52,10 @@
     </ul>
   </td>
   <td align="center">
-    <img src="readme_image/function_gif/회원가입.gif" alt="회원가입" width="200" />
+    <img src="readme_image/function_gif/회원가입.gif" alt="회원가입" width="100" />
   </td>
   <td align="center">
-    <img src="readme_image/function_gif/mm인증서생성및마이데이터가입.gif" alt="인증서" width="200" />
+    <img src="readme_image/function_gif/mm인증서생성및마이데이터가입.gif" alt="인증서" width="100" />
   </td>
 <tr>
   <td align="center"><strong>🧸 ① 통장 응원단</strong></td>
@@ -67,8 +67,8 @@
       <li>📎 <strong>위시리스트 공유</strong>: 링크로 자동 등록</li>
     </ul>
   </td>
-  <td align="center"><img src="readme_image/function_gif/예산생성.gif" alt="예산 생성" width="200" /></td>
-  <td align="center"><img src="readme_image/function_gif/위시리스트.gif" alt="위시리스트" width="200" /></td>
+  <td align="center"><img src="readme_image/function_gif/예산생성.gif" alt="예산 생성" width="100" /></td>
+  <td align="center"><img src="readme_image/function_gif/위시리스트.gif" alt="위시리스트" width="100" /></td>
   <td></td>
 </tr>
 
@@ -82,9 +82,9 @@
       <li>💸 <strong>송금 기능</strong>: Marsh Mellow에서 바로 송금</li>
     </ul>
   </td>
-  <td align="center"><img src="readme_image/function_gif/자산조회.gif" alt="자산 조회" width="200" /></td>
-  <td align="center"><img src="readme_image/function_gif/자산간편.gif" alt="자산 간편 조회" width="200" /></td>
-  <td align="center"><img src="readme_image/function_gif/송금.gif" alt="송금" width="200" /></td>
+  <td align="center"><img src="readme_image/function_gif/자산조회.gif" alt="자산 조회" width="100" /></td>
+  <td align="center"><img src="readme_image/function_gif/자산간편.gif" alt="자산 간편 조회" width="100" /></td>
+  <td align="center"><img src="readme_image/function_gif/송금.gif" alt="송금" width="100" /></td>
 </tr>
 
 <tr>
@@ -97,7 +97,7 @@
       <li>🔎 <strong>검색 기능</strong>: 필터링으로 손쉬운 조회</li>
     </ul>
   </td>
-  <td align="center"><img src="readme_image/function_gif/가계부.gif" alt="가계부" width="200" /></td>
+  <td align="center"><img src="readme_image/function_gif/가계부.gif" alt="가계부" width="100" /></td>
   <td></td>
   <td></td>
 </tr>
@@ -112,9 +112,9 @@
       <li>🧳 <strong>포트폴리오</strong>: 내 커리어, 한눈에 정리</li>
     </ul>
   </td>
-  <td align="center"><img src="readme_image/function_gif/점메추.gif" alt="점메추" width="200" /></td>
-  <td align="center"><img src="readme_image/function_gif/퇴사망상.gif" alt="퇴사 망상" width="200" /></td>
-  <td align="center"><img src="readme_image/function_gif/포트폴리오.gif" alt="포트폴리오" width="200" /></td>
+  <td align="center"><img src="readme_image/function_gif/점메추.gif" alt="점메추" width="100" /></td>
+  <td align="center"><img src="readme_image/function_gif/퇴사망상.gif" alt="퇴사 망상" width="100" /></td>
+  <td align="center"><img src="readme_image/function_gif/포트폴리오.gif" alt="포트폴리오" width="100" /></td>
 </tr>
 
   </tbody>
